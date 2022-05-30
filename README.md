@@ -1,2 +1,2 @@
 # quiz
-quiz from a friend
+interview quiz
